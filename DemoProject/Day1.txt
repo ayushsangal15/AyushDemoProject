@@ -1,0 +1,3 @@
+Hi.. Creating First File with GitBash
+
+Writig text with Vi Editor
