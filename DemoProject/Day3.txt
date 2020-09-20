@@ -1,1 +1,5 @@
-Adding text in Day3 file in Practice1 branch
+
+Adding text in Day3 file in Master branch
+
+Adding one more line to check the merging of DemoProject and Practice1 branch
+
